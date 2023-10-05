@@ -1,5 +1,3 @@
-# Elite-Node-Hunt-Linked-Lists
-Elite Node Hunt is a program that finds an elite node in a maze. The data structure used for this purpose is mainly Linked Lists.
 # Maze Solver
 
 This C++ program is a maze solver that reads maze data from a file and finds the "Elite Node" following a specific set of rules.
@@ -40,9 +38,10 @@ To run the program, execute the `run()` function in the `main` function. Make su
 
 ## Author
 
-This maze-solving program was created by `Abdullah Arif` as a project for Data Structures in FAST-NUCES. 
+This maze-solving program was created by Abdullah Arif as an assignment for Data Structures course at FAST-NUCES, Lahore.
 
 Feel free to reach out for any questions or suggestions!
 
 ---
 
+Please let me know if you have any further modifications or if there's anything else you'd like to include, my master.
