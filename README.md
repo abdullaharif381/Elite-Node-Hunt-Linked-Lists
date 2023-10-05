@@ -40,7 +40,7 @@ To run the program, execute the `run()` function in the `main` function. Make su
 
 ## Author
 
-This maze-solving program was created by [Abdullah Arif] as a project for Data Structures in FAST-NUCES. 
+This maze-solving program was created by `Abdullah Arif` as a project for Data Structures in FAST-NUCES. 
 
 Feel free to reach out for any questions or suggestions!
 
