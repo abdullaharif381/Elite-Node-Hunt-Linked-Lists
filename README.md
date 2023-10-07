@@ -6,6 +6,9 @@ This C++ program is a maze solver that reads maze data from a file and finds the
 
 The program consists of two main classes: Node and Maze. It also includes a main function to run the maze-solving process.
 
+![Alt Text](maze-linkages.png)
+
+
 ### Node Class
 
 The Node class represents individual cells in the maze. Each node has a data value and pointers to neighboring nodes in four directions: up, down, left, and right.
